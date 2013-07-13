@@ -1,3 +1,97 @@
+# Korea
+* KLDP(Korean Linux Documentation Project)
+  * Site : http://kldp.org/
+  * Since : 1996 ~
+* Mozilla Korea
+  * Site : http://www.mozilla.or.kr/community/
+  * Since : 1998 ~
+* JCO( Java Community Organization )
+  * Site : http://www.jco.or.kr/
+  * Member sites
+    * OKJSP : http://okjsp.net
+	   * Java Cafe : http://javacafe.or.kr
+	   * JUG(JBoss User Group) : http://cafe.naver.com/jbossug
+	   * KSUG(Korea Spring User Group) : http://groups.google.co.kr/group/ksug
+	   * Java Service Net : http://www.javaservice.net
+	   * Java Modeling : http://www.javamodeling.com
+	   * JavaCan : http://javacan.madvirus.net
+	   * Object Word : http://objectworld.org
+	   * Artszen : http://www.artszen.org
+	   * Women Developers : http://cafe.naver.com/womendevel
+* Ubuntu Korea
+  * Site : http://www.ubuntu.or.kr/
+* OpenStack Korea
+  * Site : http://www.openstack.or.kr
+* Drupal Korea
+  * Site : http://drupal.or.kr
+* OSXDev
+  * Site : http://osxdev.org
+  * Since : 2001 ~
+* EVA
+  * Site : http://www.evacast.net
+  * Members : 50 over
+  * Since : 2003 ~
+  * About : Software Enginnering Group, includes board member of PLoP(Patten Language of Programs)
+* opentutorials
+  * Site : http://opentutorials.org
+* PHP School
+  * Site : http://www.phpschool.com/
+* Korea HCI
+  * Site : http://www.hci.or.kr
+* OSS Developers Forum
+  * Site : http://www.facebook.com/#!/groups/567834989912160
+* TAEYO.NET
+  * Site : http://www.taeyo.net/
+  * Since : 1998 ~
+* HOONS.NET
+  * Site : http://www.hoons.net/
+  * Since : 2002 ~
+* Cloud Computing Technology
+  * Site : http://www.facebook.com/groups/cloudtech
+* Android Developers Korea
+  * Site : http://www.meetup.com/Android-Developers-Korea
+* Android Inside
+  * Site : http://www.androidside.com
+* Gnome Korea
+  * Site : http://gnome-kr.blogspot.com
+* Gnome Korea
+  * Site : http://gnome-kr.blogspot.com
+* Server Side Architecture Group
+  * Site : https://www.facebook.com/groups/serverside/
+* Python Korea
+  * Site : https://www.facebook.com/groups/pythonkorea/
+* Ruby Korea
+  * Site : https://www.facebook.com/groups/rubykr/
+* Redis Korean User Group
+  * Site : https://www.facebook.com/groups/301632676649865/
+* Xper
+  * Site : http://xper.org/
+* IAMROOT.ORG
+  * Site : http://www.iamroot.org/xe/
+* lisp korea
+  * Site : https://groups.google.com/forum/#!forum/lisp-korea
+* Kandroid
+  * Site : http://www.kandroid.org
+* MongoDB Korea 
+  * Site : http://www.mongodb-korea.org/
+* Openoffice Korea Community
+  * Site : http://openoffice.or.kr/
+* Naver Linux User Group
+  * Site : http://cafe.naver.com/linuxcare
+  * Since : 2003 ~
+* Fedora User Group
+  * Site : http://www.fedoralinux.or.kr
+* LUG(Linux User Group) Korea
+  * Site : http://www.lug.or.kr
+* Androidpub
+  * Site : http://www.androidpub.com/
+* GIMP in Korea
+  * Site : http://gimp.kr/
+* Scala Korea
+  * Site : https://groups.google.com/forum/#!forum/scala-korea
+* Korean AWS User Group
+  * Site : https://www.facebook.com/groups/189675924467773/
+
 # Japan
 * Japan Android Group
  * Site : http://www.android-group.jp/
