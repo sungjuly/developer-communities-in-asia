@@ -183,3 +183,23 @@
   * Site : http://www.nagoya.bug.gr.jp
 * Tokyo Hacker Space
   * http://tokyohackerspace.org
+
+## Ruby
+* Shinjuku.rb
+  * https://www.facebook.com/groups/shinjuku.rb/
+* Yokohama.rb
+  * http://bukt.org/groups/3
+* Okinawa.rb
+  * http://qwik.jp/okinawarb/
+* Hiroshima.rb
+  * http://hiroshimarb.github.io/
+* Shibuya.rb
+  * https://www.facebook.com/groups/shibuya.rb/
+* Rails Girls Tokyo
+  * https://www.facebook.com/groups/113145785502645/
+* Ruby Sapporo
+  * http://ruby-sapporo.org
+* Tokyo Rails Study Group
+  * https://www.facebook.com/groups/133320066732707/
+* nshg.rb
+  * https://www.facebook.com/nshgrb
