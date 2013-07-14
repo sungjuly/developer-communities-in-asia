@@ -207,34 +207,34 @@
 
 # China
 * COSUG(China OpenStack User Group)
-  # Site : http://www.openstack.org.cn/
+  * Site : http://www.openstack.org.cn/
 * Mozilla China
-  # Site : https://developer.mozilla.org/zh-CN/
+  * Site : https://developer.mozilla.org/zh-CN/
 * CodeData
-  # Site : http://www.codedata.com.tw/forum/
+  * Site : http://www.codedata.com.tw/forum/
 * Ruby-china
-  # Site : http://ruby-china.org
+  * Site : http://ruby-china.org
 * python-cn
-  # Site : https://groups.google.com/forum/#!forum/python-cn
+  * Site : https://groups.google.com/forum/#!forum/python-cn
 * BLUG(Beijing GNU/Linux User Group)
-  # Site : http://www.clubbeautiful.com/
+  * Site : http://www.clubbeautiful.com/
 * linux peoples
-  # Site : http://www.linux-ren.org/forum.php
+  * Site : http://www.linux-ren.org/forum.php
 * ChinaUnix
-  # Site : http://linux.chinaunix.net/
+  * Site : http://linux.chinaunix.net/
 * xxlinux
-  # Site : http://www.xxlinux.com/
+  * Site : http://www.xxlinux.com/
 * linuxsir
-  # Site : http://www.linuxsir.org/
+  * Site : http://www.linuxsir.org/
 * linuxpk
-  # Site : http://www.linuxpk.com/
+  * Site : http://www.linuxpk.com/
 * linux520
-  # Site : http://www.linux520.com/
+  * Site : http://www.linux520.com/
 * linuxdiyf
-  # Site : http://www.linuxdiyf.com/
+  * Site : http://www.linuxdiyf.com/
 * linuxeden
-  # Site : http://www.linuxeden.com/
+  * Site : http://www.linuxeden.com/
 * linuxfans
-  # Site : http://www.linuxfans.org/
+  * Site : http://www.linuxfans.org/
 * China OSS
-  # Site : http://oss.org.cn/
+  * Site : http://oss.org.cn/
