@@ -31,7 +31,7 @@
   * Site : http://www.evacast.net
   * Members : 50 over
   * Since : 2003 ~
-  * About : Software Enginnering Group, includes board member of PLoP(Patten Language of Programs)
+  * About : Software Engineering Group, includes board member of PLoP(Patten Language of Programs)
 * opentutorials
   * Site : http://opentutorials.org
 * PHP School
@@ -184,7 +184,7 @@
 * Tokyo Hacker Space
   * http://tokyohackerspace.org
 
-## Ruby
+### Ruby
 * Shinjuku.rb
   * https://www.facebook.com/groups/shinjuku.rb/
 * Yokohama.rb
@@ -203,3 +203,38 @@
   * https://www.facebook.com/groups/133320066732707/
 * nshg.rb
   * https://www.facebook.com/nshgrb
+
+
+# China
+* COSUG(China OpenStack User Group)
+# Site : http://www.openstack.org.cn/
+* Mozilla China
+# Site : https://developer.mozilla.org/zh-CN/
+* CodeData
+# Site : http://www.codedata.com.tw/forum/
+* Ruby-china
+# Site : http://ruby-china.org
+* python-cn
+# Site : https://groups.google.com/forum/#!forum/python-cn
+* BLUG(Beijing GNU/Linux User Group)
+# Site : http://www.clubbeautiful.com/
+* linux peoples
+# Site : http://www.linux-ren.org/forum.php
+* ChinaUnix
+# Site : http://linux.chinaunix.net/
+* xxlinux
+# Site : http://www.xxlinux.com/
+* linuxsir
+# Site : http://www.linuxsir.org/
+* linuxpk
+# Site : http://www.linuxpk.com/
+* linux520
+# Site : http://www.linux520.com/
+* linuxdiyf
+# Site : http://www.linuxdiyf.com/
+* linuxeden
+# Site : http://www.linuxeden.com/
+* linuxfans
+# Site : http://www.linuxfans.org/
+* China OSS
+# Site : http://oss.org.cn/
