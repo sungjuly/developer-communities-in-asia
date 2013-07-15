@@ -182,7 +182,9 @@
 * Nagoya * BSD Users Group
   * Site : http://www.nagoya.bug.gr.jp
 * Tokyo Hacker Space
-  * http://tokyohackerspace.org
+  * Site : http://tokyohackerspace.org
+* OSS Japan
+  * Site : https://www.facebook.com/groups/ossjapan/
 
 ### Ruby
 * Shinjuku.rb
