@@ -189,6 +189,10 @@
   * Site : http://ja.wordpress.org/
 * WordBench
   * Site : http://wordbench.org/
+* Yokohama Linux Users Group
+  * Site : http://www.ylug.jp/modules/pukiwiki/
+* Tokyo Linux Users Group
+  * Site : http://www.tlug.jp/
 
 ### Ruby
 * Shinjuku.rb
