@@ -185,6 +185,10 @@
   * Site : http://tokyohackerspace.org
 * OSS Japan
   * Site : https://www.facebook.com/groups/ossjapan/
+* Wordpress Japan
+  * Site : http://ja.wordpress.org/
+* WordBench
+  * Site : http://wordbench.org/
 
 ### Ruby
 * Shinjuku.rb
@@ -195,8 +199,6 @@
   * http://qwik.jp/okinawarb/
 * Hiroshima.rb
   * http://hiroshimarb.github.io/
-* Shibuya.rb
-  * https://www.facebook.com/groups/shibuya.rb/
 * Rails Girls Tokyo
   * https://www.facebook.com/groups/113145785502645/
 * Ruby Sapporo
