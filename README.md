@@ -193,6 +193,13 @@
   * Site : http://www.ylug.jp/modules/pukiwiki/
 * Tokyo Linux Users Group
   * Site : http://www.tlug.jp/
+* concrete5
+  * Site : http://concrete5-japan.org/
+* MODX Japan (OSS CMS Japanese community)
+  * Site : http://modx.jp/
+  * Since : 2008
+* GeekLog
+  * Site : http://www.geeklog.jp/
 
 ### Ruby
 * Shinjuku.rb
