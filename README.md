@@ -200,6 +200,21 @@
   * Since : 2008
 * GeekLog
   * Site : http://www.geeklog.jp/
+* Netcommons
+  * Site : http://www.netcommons.org
+* LILO(Linux Install Learning Osaka)
+  * Site : http://lilo.linux.or.jp/
+  * Since : 1997
+* Koedo Linux Users' Group
+  * Site : http://hatochan.dyndns.org/koedolug/
+* SeTouchi Linux Users Group
+  * Site : http://www.stlug.org/
+* Kansai *BSD User Group
+  * Site : http://www.kbug.gr.jp/
+* The Wikimedian Society of Tokyo
+  * Site : http://tokyo.wikimedia.jp/wiki/%E6%9D%B1%E4%BA%AC%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E4%BC%9A
+*  Wikimedians in Kansai
+  * Site : http://kansai.wikimedia.jp/wiki/%E9%96%A2%E8%A5%BF%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%A6%E3%83%BC%E3%82%B6%E4%BC%9A
 
 ### Ruby
 * Shinjuku.rb
@@ -218,6 +233,28 @@
   * https://www.facebook.com/groups/133320066732707/
 * nshg.rb
   * https://www.facebook.com/nshgrb
+
+### Perl
+* perl-users
+  * Site : http://perl-users.jp/
+* Shibuya.pm
+  * Site : http://shibuya.pm.org/
+* Fukuoka.pm
+  * Site : http://fukuoka.pm.org/
+* Kansai.pm
+  * Site : http://kansai.pm.org/
+* Yokohama.pm
+  * Site : http://yokohama.pm.org/
+* Hokkaido.pm
+  * Site : http://hokkaido.pm.org/
+* Nagoya.pm
+  * Site : http://nagoya.pm.org/
+* Kushiro.pm
+  * Site : http://kushiro.pm.org/
+* Kyoto.pm
+  * Site : http://kyoto.pm.org/
+* Kamakura.pm
+  * http://kamakura.pm.org/
 
 
 # China
